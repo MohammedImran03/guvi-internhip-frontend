@@ -73,6 +73,7 @@ const Tasks = () => {
             </h1>
           </div>
           </div> */}
+          
     <div className='pt-2 text-orange-500 font-bold text-xl flex justify-center'>My Tasks</div>
     <div className="w-full flex justify-center mx-2 my-2">
     <div class=" w-full md:w-2/3 lg:w-2/5">
