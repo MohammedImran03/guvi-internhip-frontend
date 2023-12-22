@@ -1,1 +1,1 @@
-export const server = "https://quick-memo-server1.onrender.com/api";
+export const server = "https://task-app-yvei.onrender.com/api";
