@@ -1,0 +1,17 @@
+.HomeTask {
+    position: relative;
+  }
+.ModalTask{
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+}
+@media only screen and (min-width: 750px) {
+    .ModalTask{
+        position: absolute;
+        top:57%;
+        left: 50%;
+        /* transform: translate(-50%, -50%); */
+}
+  }

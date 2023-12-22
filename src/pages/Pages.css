@@ -1,0 +1,10 @@
+.containerpart{
+    flex: 1;
+    display: flex;
+}
+
+.insidecontainerpart{
+    flex: 1;
+    border: 1px solid black;
+    margin: 5px;
+  }
